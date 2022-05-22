@@ -4,7 +4,7 @@
 
 - 📚 Graduando em Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
 
-- 👨‍💻 Atualmente estudando desenvolvimento web com ReactJS e NodeJS, e também serviços de computação em nuvem: Amazon AWS 
+- 👨‍💻 Estudando desenvolvimento web com ReactJS e NodeJS, e também serviços de computação em nuvem: Amazon AWS 
 
 - ⚡ Em busca de uma oportunidade de estágio em Desenvolvimento Web
 
