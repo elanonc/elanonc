@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá, boas vindas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">. Eu sou o Elano Nunes. </h1>
+<h1 align="left">Olá, boas vindas. Eu sou o Elano Nunes. </h1>
 
 
 - 📚 Graduando em Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
