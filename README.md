@@ -3,13 +3,9 @@
 
 
 - 📚 Graduando em Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
-
-- 👨‍💻 Estudando desenvolvimento web com ReactJS e NodeJS, e também serviços de computação em nuvem: Amazon AWS 
-
+- 👨‍💻 Estudando desenvolvimento de API's REST e aplicações web
 - ⚡ Em busca de uma oportunidade de estágio em Desenvolvimento Web
-
 - 🔥 Muita determinação e vontade de aprender
-
 - ✉️  Me encontre em: nunes.elano14@gmail.com 
 <br><br>
 
@@ -18,6 +14,7 @@
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
