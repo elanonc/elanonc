@@ -4,7 +4,7 @@
 
 - 📚 Graduando em Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
 - 👨‍💻 Estudando desenvolvimento de API's REST e aplicações web
-- ⚡ Em busca de uma oportunidade de estágio em Desenvolvimento Web
+- ⚡ Em busca de uma oportunidade de estágio
 - 🔥 Muita determinação e vontade de aprender
 - ✉️  Me encontre em: nunes.elano14@gmail.com 
 <br><br>
