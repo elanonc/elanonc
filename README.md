@@ -3,9 +3,7 @@
 
 
 - 📚 Graduando em Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
-- 👨‍💻 Estudando desenvolvimento de API's REST e aplicações web
-- ⚡ Em busca de uma oportunidade de estágio
-- 🔥 Muita determinação e vontade de aprender
+- 👨‍💻 Estagiário Cloud/DevSecOps na UOL Compass
 - ✉️  Me encontre em: nunes.elano14@gmail.com 
 <br><br>
 
@@ -28,7 +26,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=elanonc&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanonc&layout=compact&theme=vision-friendly-dark" alt="elanonc's most languages"/>
 </p>
 
