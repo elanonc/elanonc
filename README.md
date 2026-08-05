@@ -27,14 +27,14 @@
 
 ## :mage_man: &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-</a>
-<a href="[https://www.linkedin.com/in/elanonc]" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="[https://instagram.com//elanoncaitano]" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/elanonc" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/elanoncaitano" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
 
 </p>
 
