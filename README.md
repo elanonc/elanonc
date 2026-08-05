@@ -2,9 +2,9 @@
 <h1 align="left">Olá, boas vindas. Eu sou o Elano Nunes. </h1>
 
 
-- 📚 Graduando em Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
-- 👨‍💻 Analista de Suporte Jr. na Compass UOL
-- ✉️  Me encontre em: nunes.elano14@gmail.com e elano.caitano@compasso.com.br
+- 📚 Ciência da Computação na Universidade Federal do Ceará, campus Quixadá
+- 👨‍💻 Analista de Suporte na Compass UOL
+- ✉️  Me encontre em: caitano.elano14@gmail.com
 <br><br>
 
 ## 🛠 &nbsp;Stacks
@@ -25,12 +25,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanonc&layout=compact&theme=vision-friendly-dark" alt="elanonc's most languages"/>
-</p>
-
 ## :mage_man: &nbsp;Social Links
 
 <p align="left" style="background:yellow">
@@ -38,7 +32,7 @@
 <a href="[https://www.linkedin.com/in/elanonc]" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="[https://instagram.com//o.eleno]" target="_blank">
+<a href="[https://instagram.com//elanoncaitano]" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
 </a>
 
